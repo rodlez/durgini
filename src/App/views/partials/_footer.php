@@ -74,6 +74,19 @@
 <!-- JS -->
 <script src="/js/script.js"></script>
 <script src="/js/bootstrap.bundle.min.js"></script>
+<!-- JQUERY -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<!-- Trumbowyg TEXTAREA EDITOR-->
+<script src="/dist/trumbowyg.min.js"></script>
+<!-- Import Trumbowyg plugins... -->
+<script src="/dist/plugins/upload/trumbowyg.upload.min.js"></script>
+<!-- Trumbowyg Script -->
+<script src="/js/trumbowyg.js"></script>
+<!-- TinyMCE EDITOR -->
+<script src="/tinymce/tinymce/tinymce.min.js" referrerpolicy="origin"></script>
+<!-- TinyMCE Script -->
+<script src="/js/tinymceScript.js"></script>
+
 </body>
 
 </html>

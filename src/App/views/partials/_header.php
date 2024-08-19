@@ -19,6 +19,8 @@ $footerLinks = footerLinks($_SESSION['lang']);
     <link rel="stylesheet" href="/css/bootstrap.css">
     <link rel="stylesheet" href="/css/styles.css">
     <link rel="stylesheet" href="/css/fontawesome.css">
+    <!-- Trumbowyg CSS -->
+    <link rel="stylesheet" href="/dist/ui/trumbowyg.min.css">
     <!-- Favicon -->
     <link rel="icon" href="/images/web/favicon.png" />
     <title><?php echo escapeChar($title); ?></title>
